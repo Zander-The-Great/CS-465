@@ -40,8 +40,8 @@ Methods for request and retrieval necessitate various types of API testing of en
 -Between the mean stack approach and traditional server application, is that instead of storing a user session data on the server the data is instead stored in the browser client side
 - The token is used by the server that generated the token to authenticate a user when it's returned in a subsequent request
 -The JSON web token helps pass data around between the API on the server and the SPA in the browser
-- We can track user sessions for user logins by using JSON web tokens to securely call API endpoints
-- 
+- We can track user sessions for user logins by using JSON web tokens to securely call API endpoints, When calling an authenticated API endpoint, the browser will send the JWT along with the data, the server decodes the token to validate the user’s request.
+
 
 
 
