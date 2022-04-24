@@ -64,3 +64,5 @@ Methods for request and retrieval necessitate various types of API testing of en
 ---Reflection---
 
 How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
+-This course has given me the opportunity to work in developing all of the different portions of a full stack application. From the ground up, building the Express Nodejs backend controllers, routing data to the views to the MongoDB, Mongoose functions returning res.json responses, server, schema-side, and adding layers of security on client. There is alot to take in. From the ground up this all has really given me perspective and the tools to apply my up coming developments.
