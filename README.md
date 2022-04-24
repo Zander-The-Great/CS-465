@@ -3,6 +3,8 @@ SNHU
 Full Stack Development
 
 
--Main Branch-
-Currently contains 5 Branches with their respective Modules.
+-Final Version
+
+No Node modules need to install.
+Please see uploaded guide
 
