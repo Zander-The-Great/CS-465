@@ -25,8 +25,6 @@ Why did the backend use a NoSQL MongoDB database?
 This scaling is horizontal.
 
 
-
-
 -Functionality-
 
 How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
